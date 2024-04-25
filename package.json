@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-public-chain",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "Description for rust-public-chain",
   "main": "src/index.js",
   "scripts": {
